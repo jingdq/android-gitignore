@@ -47,3 +47,6 @@ build
 # Misc.
 *.DS_Store
 *.jar.properties
+
+# Crashlytics
+com_crashlytics_export_strings.xml
